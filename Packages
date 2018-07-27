@@ -1,0 +1,16 @@
+Package: com.0bash.cylinder
+Name: cylinder
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: iPhone X features for Non-X devices on iOS 11, and iPad Dock and PiP for All iOS 11 Devices on iOS 11
+Section: Tweaks
+Version: 1.3.4
+Installed-Size: 512111
+SHA256: 345624d254d85c8eeb3a468fe057c59b173d740d0c5fe2e7e17c054beb9bedbd
+SHA1: c010c0062231a5f58064163b77bcba9a3612d686
+MD5sum: 2621f815a2a92a9b91a9a02867a9eec7
+Depiction: http://0bash.github.io/depiction/index.html
+Size: 512111
+Filename: debs/cylinder.deb
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios11.3.1
+icon: file:///http://0bash.github.io/Library/cylinder/icon@58.png
